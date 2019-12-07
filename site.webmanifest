@@ -1,0 +1,20 @@
+{
+    "name": "Jmsh Words",
+    "short_name": "Jmsh Words",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-6Z495163LYs/XevUOG-jA2I/AAAAAAAAEB8/CrSAtwGN3woUvqCevoEWIk08hNiSRa8JgCNcBGAsYHQ/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-OuwQv9mqIqk/XevURo0P66I/AAAAAAAAECA/V8LI0cWuiuAunGRXBPJy5fl258so1i-TACNcBGAsYHQ/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "start_url": "https://jmshwords.blogspot.com/",
+    "display": "standalone"
+}
